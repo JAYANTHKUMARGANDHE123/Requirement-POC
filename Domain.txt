@@ -1,0 +1,16 @@
+In web development, a domain refers to the unique name that identifies a website on the internet. It's the address users type into their web browser's address bar to access a specific website. For example, in the URL "https://www.example.com," "example.com" is the domain.
+
+Components of a Domain:
+Top-Level Domain (TLD): This is the suffix at the end of a domain name, like .com, .org, .net, or country-specific TLDs like .uk or .jp. The TLD indicates the domain's type or geographic area.
+
+Second-Level Domain (SLD): This is the part of the domain name that comes before the TLD. For "example.com," "example" is the SLD. It's usually the most recognizable part of the domain and often reflects the name of the organization, brand, or individual.
+
+Subdomain: A subdomain is an additional part of your domain name that can help organize and navigate different sections of your website. For example, in "blog.example.com," "blog" is a subdomain of "example.com."
+
+How Domains Work:
+When you type a domain name into your browser, it sends a request to a DNS (Domain Name System) server. The DNS server then translates the domain name into an IP address, which is the actual address of the web server hosting the site.
+The web server processes the request and returns the website content to your browser.
+Domain Registration:
+Domains must be registered with a domain registrar, an organization that manages the reservation of internet domain names. Popular registrars include GoDaddy, Namecheap, and Google Domains.
+Domains are rented, not owned, so you'll need to renew your registration periodically.
+In web development, selecting the right domain is important for branding, SEO, and accessibility of your website.
